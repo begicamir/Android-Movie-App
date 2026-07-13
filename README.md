@@ -1,6 +1,5 @@
 # MovieApp (Jetpack Compose)
-The Movie app is a modern Android application built with Jetpack Compose and Kotlin. It follows clean architecture principles with an MVVM + unidirectional data flow (MVI‑like) approach and leverages Hilt for dependency injection. The app integrates Retrofit for networking, Room for local persistence, and 
-Coil for efficient image loading. Navigation is powered by Navigation‑Compose, and Accompanist is used to control system UI colors.
+The Movie app is a modern Android application built with Jetpack Compose and Kotlin. It follows clean architecture principles with an **MVVM** + unidirectional data flow (MVI‑like) approach and leverages **Hilt** for dependency injection. The app integrates **Retrofit** for networking, **Room** for local persistence, and **Coil** for efficient image loading. Navigation is powered by **Navigation‑Compose**, and **Accompanist** is used to control system UI colors.
 
 This project structure and implementation are inspired by clean, scalable Android patterns.
 
